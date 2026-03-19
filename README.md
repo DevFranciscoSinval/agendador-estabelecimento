@@ -1,1 +1,1 @@
-projeto para agendamento de estabelecimento seguindo arquitetura de 3 camadas para um CRUD com todas as funcionalidades e regras de excessoes, com maven, lombok, h2 para o banco de dados podendo ser testado em postman
+projeto para agendamento de estabelecimento seguindo arquitetura de 3 camadas para um CRUD com todas as funcionalidades e regras de excessoes, com JPA, lombok, Spring Web, h2 para o banco de dados podendo ser testado em postman
